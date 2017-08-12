@@ -1,0 +1,56 @@
+ftp://192.168.31.114/ftp/git
+
+kdb - a type of open sorce orgination
+
+JBoss Forge
+
+for desktop application - kde
+
+java - gradle/maven
+
+
+C:\Users\ARPIT ROCK\Downloads\PortableGit
+
+https://github.com/RRKKSinha/event.git
+
+----------------------------------------------------------------
+
+git init
+git status
+git add . 
+git commit -m "message"
+----------------------------------------------------------------
+
+gsoc - google summer of code
+
+
+hexcha+
+
+register nick at freenode
+irc - Internet Relay Chat
+
+bit bucket --- http://bitbucket.org/
+-----------------------------------------------------------------
+git config --global user.email "youremail@example.com"
+git config --global user.name "username"
+git config --list --> to see all the list after giving github user.name and user.email
+git help --> for any git command help
+git help commit --> use this command for git-commit(1) Manual Page
+pwd --> give the path of current directory
+cd ~ --> change the directory
+cd ..  --> back one step
+ls --> list every things current folder
+git init --> initialized empty git repository in the local directory
+
+ls -la --> list of that hidden files which make conectivity with github and local directory to run on the git
+
+git log --> list all commits
+git log --author="username" --> to shows a specific commit
+git status --> to shows git status
+git pull upstring master
+git push origin master
+git checkout -b rohit --> for creating new branch
+git checkout branchname  --> to switch to the branchname branch
+git branch --> to shows all the branches
+git checkout master
+git branch -D branchname --> for deleting the branch
